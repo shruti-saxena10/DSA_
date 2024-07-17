@@ -11,6 +11,7 @@
 | Topics                                                      | Status   | 
 | :-----------------------------------------------------------| :------- | 
 | OOPs Concepts                                               |          |
+Arrays                                                        | DONE         |
 Linked List                                                   |          |
 SLL-Coding Exercises                                          |          |
 Singly Linked List- Leetcode                                  |          |
